@@ -41,7 +41,7 @@ UNUSED(flags);
 UNUSED(width);
 UNUSED(precision);
 UNUSED(size);
-if (tr == NULL)
+if (str == NULL)
 {
 str = "(null)";
 if (precision >= 6)
